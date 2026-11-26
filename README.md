@@ -1,13 +1,10 @@
-<p align="center">
+<div align="center">
   <img src="media/lunz.png" alt="Logo" width="250">
-</p>
-
-# lunz
-
-<dl>
-  <dt><b>lunzen</b> <i>(verb; German regional slang, informal)</i></dt>
-  <dd>to peek or glance secretly; to sneak a look</dd>
-</dl>
+  <dl>
+    <dt><b>lunzen</b> <i>(verb; German regional slang, informal)</i></dt>
+    <dd>to peek or glance secretly; to sneak a look</dd>
+  </dl>
+</div>
 
 Stream your screen to the world, hidden from your taskbar and icon tray.
 
