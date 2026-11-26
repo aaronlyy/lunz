@@ -4,9 +4,8 @@
     <dt><b>lunzen</b> <i>(verb; German regional slang, informal)</i></dt>
     <dd>to peek or glance secretly; to sneak a look</dd>
   </dl>
+  <p>Stream your screen to the world, hidden from your taskbar and icon tray.</p>
 </div>
-
-Stream your screen to the world, hidden from your taskbar and icon tray.
 
 # Why?
 I built this project because a friend wanted to share his screen while keeping it hidden from anyone looking at the physical display. This is a re-write of the original C# project in Go.
