@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="media/lunz.png" alt="Logo" width="250">
+  <img src="media/lunz.png" alt="Logo" width="200">
   <dl>
     <dt><b>lunzen</b> <i>(verb; German regional slang, informal)</i></dt>
     <dd>to peek or glance secretly; to sneak a look</dd>
